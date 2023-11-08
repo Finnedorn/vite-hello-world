@@ -1,6 +1,6 @@
 <template>
-  <AppTitle/>
   <AppHero/>
+  <AppTitle/>
 </template>
 
 <script>
@@ -10,8 +10,8 @@
     name: 'App',
     components: {
     AppTitle,
-    AppHero
-},
+    AppHero,
+    },
     data() {
       return {
       }

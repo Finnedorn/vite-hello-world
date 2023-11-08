@@ -18,9 +18,9 @@
 </script>
 
 <style lang="scss" scoped>
-
-h1 {
-    text-align: center;
-    color: red;
-}
+    h1 {
+        padding-top: 20px;
+        text-align: center;
+        color: red;
+    }
 </style>
