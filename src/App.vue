@@ -1,15 +1,12 @@
 <template>
   <AppHero/>
-  <AppTitle/>
 </template>
 
 <script>
-  import AppTitle from './components/icons/AppTitle.vue';
-  import AppHero from './components/icons/AppHero.vue';
+  import AppHero from './components/AppHero.vue';
   export default {
     name: 'App',
     components: {
-    AppTitle,
     AppHero,
     },
     data() {
